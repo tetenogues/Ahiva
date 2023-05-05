@@ -7,4 +7,4 @@ Otro parametro clave para poder tunear la posicion de los clicks que se programa
 
 Una de las limitaciones de este programa es que no se adapta frente a actualizaciones en el ui design de la plataforma donde opera. Ademas que tampoco se adapta a los diferentes tamaños de pantallas. Se genero en un tamaño (width=1366, height=768). 
 
-Conclusion, es una solucion a l atarea rutinaria de data entry y se podria escalar a mas funciones. El desarrollo de este codigo fue de 2hs y me ahorro 7 horras al mes de tareas rutinarias y repetitivas.
+Conclusion, es una solucion a la tarea rutinaria de data entry y se podria escalar a mas funciones. El desarrollo de este codigo fue de 2hs y me ahorro 7 horras al mes de tareas rutinarias y repetitivas.
